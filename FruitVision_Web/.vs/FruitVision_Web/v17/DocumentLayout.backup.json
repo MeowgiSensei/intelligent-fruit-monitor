@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\FruitVision_Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\views\\home\\howitworks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\views\\home\\howitworks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\wwwroot\\css\\howitworks.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\wwwroot\\css\\howitworks.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\views\\home\\demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\views\\home\\demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\wwwroot\\css\\demo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\wwwroot\\css\\demo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|c:\\users\\user\\desktop\\fruitvision_web\\fruitvision_web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4631B319-CCF2-424D-B792-BD298DDFD9BB}|FruitVision_Web\\FruitVision_Web.csproj|solutionrelative:fruitvision_web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "FruitVision_Web\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "FruitVision_Web\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T07:06:59.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\wwwroot\\css\\Contact.css",
+              "RelativeDocumentMoniker": "FruitVision_Web\\wwwroot\\css\\Contact.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\wwwroot\\css\\Contact.css",
+              "RelativeToolTip": "FruitVision_Web\\wwwroot\\css\\Contact.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-04T07:08:00.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "FruitVision_Web\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "FruitVision_Web\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T07:03:02.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HowItWorks.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Home\\HowItWorks.cshtml",
+              "RelativeDocumentMoniker": "FruitVision_Web\\Views\\Home\\HowItWorks.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Home\\HowItWorks.cshtml",
+              "RelativeToolTip": "FruitVision_Web\\Views\\Home\\HowItWorks.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T06:52:48.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HowItWorks.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\wwwroot\\css\\HowItWorks.css",
+              "RelativeDocumentMoniker": "FruitVision_Web\\wwwroot\\css\\HowItWorks.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\wwwroot\\css\\HowItWorks.css",
+              "RelativeToolTip": "FruitVision_Web\\wwwroot\\css\\HowItWorks.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-04T06:51:36.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FruitVision_Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FruitVision_Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:42:44.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Demo.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Home\\Demo.cshtml",
+              "RelativeDocumentMoniker": "FruitVision_Web\\Views\\Home\\Demo.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Home\\Demo.cshtml",
+              "RelativeToolTip": "FruitVision_Web\\Views\\Home\\Demo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T06:40:16.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Demo.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\wwwroot\\css\\Demo.css",
+              "RelativeDocumentMoniker": "FruitVision_Web\\wwwroot\\css\\Demo.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\wwwroot\\css\\Demo.css",
+              "RelativeToolTip": "FruitVision_Web\\wwwroot\\css\\Demo.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-04T06:37:27.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FruitVision_Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FruitVision_Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T06:07:59.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "FruitVision_Web\\wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "FruitVision_Web\\wwwroot\\css\\Home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-04T06:07:38.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FruitVision_Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FruitVision_Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T06:07:07.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Program.cs",
+              "RelativeDocumentMoniker": "FruitVision_Web\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FruitVision_Web\\FruitVision_Web\\Program.cs",
+              "RelativeToolTip": "FruitVision_Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:06:41.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
