@@ -11,7 +11,7 @@ TRAINED MODEL DOWNLOAD
 The trained model (best.pt) is not included in this repo
 due to file size. Download it from Google Drive:
  
-[ADD YOUR GOOGLE DRIVE LINK HERE]
+https://drive.google.com/drive/folders/1czqGULejfeLOy8Cje1_CW2FSJqvIYgQr?usp=sharing
  
 After downloading, place the file at:
 runs/segment/fruitseg_new_v005/weights/best.pt
