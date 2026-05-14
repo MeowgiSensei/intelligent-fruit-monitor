@@ -1,0 +1,27 @@
+﻿# Large model files
+sam_vit_h.pth
+yolov8m-seg.pt
+yolo26n.pt
+
+# All trained models
+runs/
+
+# Generated datasets
+fruitseg_yolo/
+fruitseg_new/
+handpicked/
+
+# Large data folders
+FruitSeg30/
+Fruits 360/
+fruits20/
+FruitImages/
+ADD/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Results
+results/
